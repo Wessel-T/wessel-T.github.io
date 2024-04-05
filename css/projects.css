@@ -10,7 +10,6 @@ body {
 
 div {
   border: 2px solid black;
-  border-radius: 10px;
 }
 
 h2 {
@@ -30,4 +29,11 @@ h2 {
 a {
   text-decoration: none;
   color: black;
+}
+
+:root {
+  --bordercolor: rgb(96, 170, 212);
+  --white: white;
+  --black: black;
+  --text-color: rgb(97, 97, 241);
 }
