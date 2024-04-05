@@ -1,0 +1,17 @@
+body {
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+}
+
+div {
+  border: 1px solid black;
+}
+
+h2 {
+  text-align: center;
+}
+
+.container-lg {
+  text-align: center;
+}
