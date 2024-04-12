@@ -31,3 +31,21 @@ a {
   text-decoration: none;
   color: black;
 }
+
+.intro{
+  margin-top: 100px;
+  border: none;
+}
+
+.intro-text{
+  font-size: 40px;
+
+}
+
+#title{
+  margin-top: 25px;
+}
+
+.nav-line{
+  margin-top: 20px;
+}
