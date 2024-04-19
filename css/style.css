@@ -3,13 +3,14 @@ body {
   margin: 0%;
   box-sizing: border-box;
 
-  /* background-image: url(/img/background\ blue.png); */
+  background-image: url(/img/background\ blue.png);
   background-repeat: no-repeat;
   background-size: cover;
+  color: rgb(97, 97, 241);
 }
 
 div {
-  border: 2px solid black;
+  border: 2px solid rgb(96, 170, 212);
   border-radius: 10px;
 }
 
@@ -29,7 +30,7 @@ h2 {
 
 a {
   text-decoration: none;
-  color: black;
+  color: rgb(97, 97, 241);
 }
 
 .intro{
@@ -39,6 +40,8 @@ a {
 
 .intro-text{
   font-size: 40px;
+  text-align: center;
+  
 
 }
 
@@ -47,5 +50,6 @@ a {
 }
 
 .nav-line{
-  margin-top: 20px;
+  margin-top: 30px;
+  
 }

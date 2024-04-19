@@ -1,15 +1,17 @@
 body {
   padding: 0%;
   margin: 0%;
+  color: rgb(97, 97, 241);
   box-sizing: border-box;
 
-  /* background-image: url(/img/background\ blue.png); */
+  background-image: url(/img/background\ blue.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 div {
-  border: 2px solid black;
+  border: 2px solid rgb(96, 170, 212);
+  border-radius: 10px;
 }
 
 h2 {
@@ -28,12 +30,23 @@ h2 {
 
 a {
   text-decoration: none;
-  color: black;
+  color: rgb(97, 97, 241);
 }
 
-:root {
-  --bordercolor: rgb(96, 170, 212);
-  --white: white;
-  --black: black;
-  --text-color: rgb(97, 97, 241);
+.intro {
+  margin-top: 100px;
+  border: none;
+}
+
+.intro-text {
+  font-size: 40px;
+  text-align: center;
+}
+
+#title {
+  margin-top: 25px;
+}
+
+.nav-line {
+  margin-top: 30px;
 }
