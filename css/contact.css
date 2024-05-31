@@ -9,10 +9,10 @@ body {
   color: rgb(97, 97, 241);
 }
 
-div {
+/* div {
   border: 2px solid rgb(96, 170, 212);
   border-radius: 10px;
-}
+} */
 
 h2 {
   text-align: center;
@@ -22,10 +22,6 @@ h2 {
 .col-4 {
   height: 70px;
   font-size: 30px;
-
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 a {
@@ -38,13 +34,6 @@ a {
   border: none;
 }
 
-.intro-text{
-  font-size: 40px;
-  text-align: center;
-  
-
-}
-
 #title{
   margin-top: 25px;
 }
@@ -52,4 +41,12 @@ a {
 .nav-line{
   margin-top: 30px;
   
+}
+
+img{
+  width: 20%;
+}
+
+.border{
+border-color:rgb(97, 97, 241) ;
 }
