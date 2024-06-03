@@ -8,12 +8,7 @@ body {
   background-size: cover;
   color: rgb(97, 97, 241);
 }
-
-div {
-  border: 2px solid rgb(96, 170, 212);
-  border-radius: 10px;
-}
-
+ 
 h2 {
   text-align: center;
   font-size: 60px;
