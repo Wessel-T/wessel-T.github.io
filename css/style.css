@@ -10,17 +10,11 @@ body {
 }
  
 h2 {
-  text-align: center;
   font-size: 60px;
 }
 
 .col-4 {
-  height: 70px;
   font-size: 30px;
-
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 a {
@@ -28,23 +22,9 @@ a {
   color: rgb(97, 97, 241);
 }
 
-.intro{
-  margin-top: 100px;
-  border: none;
-}
-
 .intro-text{
   font-size: 40px;
-  text-align: center;
-  
-
 }
 
-#title{
-  margin-top: 25px;
-}
 
-.nav-line{
-  margin-top: 30px;
-  
-}
+

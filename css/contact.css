@@ -9,18 +9,12 @@ body {
   color: rgb(97, 97, 241);
 }
 
-/* div {
-  border: 2px solid rgb(96, 170, 212);
-  border-radius: 10px;
-} */
 
 h2 {
-  text-align: center;
   font-size: 60px;
 }
 
 .col-4 {
-  height: 70px;
   font-size: 30px;
 }
 
@@ -29,25 +23,10 @@ a {
   color: rgb(97, 97, 241);
 }
 
-.intro{
-  margin-top: 100px;
-  border: none;
-}
 
-#title{
-  margin-top: 25px;
-}
 
-.nav-line{
-  margin-top: 30px;
-  
-}
 
 img{
   width: 20%;
-}
-
-.border{
-border-color:rgb(97, 97, 241) ;
 }
 
