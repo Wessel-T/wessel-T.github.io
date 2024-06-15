@@ -22,7 +22,9 @@ a {
 }
 
 
-
+.textsize{
+  font-size: 40px;
+}
 
 img{
   width: 20%;
