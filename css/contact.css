@@ -2,11 +2,12 @@ body {
   padding: 0%;
   margin: 0%;
   box-sizing: border-box;
+  color: rgb(97, 97, 241);
 
   background-image: url(/img/background\ blue.png);
   background-repeat: no-repeat;
   background-size: cover;
-  color: rgb(97, 97, 241);
+
 }
 
 
@@ -14,9 +15,6 @@ h2 {
   font-size: 60px;
 }
 
-.col-4 {
-  font-size: 30px;
-}
 
 a {
   text-decoration: none;
